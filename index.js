@@ -31,7 +31,7 @@ const GoStumble = (code, auth) => new Promise((resolve, reject) => {
      ██    ██    ██    ██ ██  ██  ██ ██   ██ ██      ██            
 ███████    ██     ██████  ██      ██ ██████  ███████ ███████    
 
-By : ${chalk.red('@dkmpostor')} - ${chalk.blue('https://dkmpostor.netlify.app/')}
+By : ${chalk.red('@Putracelek fairuz celek')} - ${chalk.blue('https://dkmpostor.netlify.app/')}
 
 Features :
 
