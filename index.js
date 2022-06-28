@@ -70,15 +70,15 @@ Features :
                 const trophy = data.User.SkillRating;
                 const crown = data.User.Crowns;
                 
-                console.log(
+                console.log(`\r
 ♨  [${moment().format('HH:mm:ss')}]  -
-→  ${chalk.Grey(`Negara By Putrakull : ${country}`)}
+→  ${chalk.Gray(`Negara By Putrakull : ${country}`)}
 →  ${chalk.White(`Nama By Putrakull : ${username}`)}
 →  ${chalk.Cyan(`Exp By Putrakull: ${exp}`)}  
 →  ${chalk.Yellow(`Tropy By Putrakull : ${trophy}`)}  
 →  ${chalk.Pink(`Crown By Putrakull : ${crown}`)}
 →  ${chalk.Green(`Status : ✔ Success`)}`);
-        await delay(time)
+        await sleep(time);
 
             } else if (result == 'BANNED') {
 
