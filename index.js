@@ -74,7 +74,6 @@ Features :
 ♨  [${moment().format('HH:mm:ss')}]  -
 →  ${chalk.bgGrey(`Negara By Putrakull : ${country}`)}
 →  ${chalk.bgWhite(`Nama By Putrakull : ${username}`)}
-→  ${chalk.bgGold(`Pass Star By Putrakull : ${tokenPass}`)}
 →  ${chalk.bgCyan(`Exp By Putrakull: ${exp}`)}  
 →  ${chalk.bgYellow(`Tropy By Putrakull : ${trophy}`)}  
 →  ${chalk.bgPink(`Crown By Putrakull : ${crown}`)}
