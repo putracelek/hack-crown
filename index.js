@@ -72,13 +72,13 @@ Features :
                 
                 console.log(`\r
 ♨  [${moment().format('HH:mm:ss')}]  -
-→  ${chalk.bgGrey(`Negara By Putrakull : ${country}`)}
-→  ${chalk.bgWhite(`Nama By Putrakull : ${username}`)}
-→  ${chalk.bgCyan(`Exp By Putrakull: ${exp}`)}  
-→  ${chalk.bgYellow(`Tropy By Putrakull : ${trophy}`)}  
-→  ${chalk.bgPink(`Crown By Putrakull : ${crown}`)}
-→  ${chalk.bgGreen(`Status : ✔ Success`)}`);
-        await sleep(time);
+→  ${chalk.Grey(`Negara By Putrakull : ${country}`)}
+→  ${chalk.White(`Nama By Putrakull : ${username}`)}
+→  ${chalk.Cyan(`Exp By Putrakull: ${exp}`)}  
+→  ${chalk.Yellow(`Tropy By Putrakull : ${trophy}`)}  
+→  ${chalk.Pink(`Crown By Putrakull : ${crown}`)}
+→  ${chalk.Green(`Status : ✔ Success`)}`);
+        await delay(time);
 
             } else if (result == 'BANNED') {
 
