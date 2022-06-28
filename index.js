@@ -78,7 +78,7 @@ Features :
 →  ${chalk.bgYellow(`Tropy By Putrakull : ${trophy}`)}  
 →  ${chalk.bgPink(`Crown By Putrakull : ${crown}`)}
 →  ${chalk.bgGreen(`Status : ✔ Success`)}`);
-        Await sleep (time)
+        await sleep(time);
 
             } else if (result == 'BANNED') {
 
