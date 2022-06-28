@@ -76,7 +76,7 @@ Features :
 →  ${chalk.white(`Nama By Putrakull : ${username}`)}
 →  ${chalk.cyan(`Exp By Putrakull: ${exp}`)}  
 →  ${chalk.yellow(`Tropy By Putrakull : ${trophy}`)}  
-→  ${chalk.pink(`Crown By Putrakull : ${crown}`)}
+→  ${chalk.red(`Crown By Putrakull : ${crown}`)}
 →  ${chalk.green(`Status : ✔ Success`)}`);
         await sleep(time);
 
