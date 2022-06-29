@@ -25,15 +25,16 @@ const GoStumble = (code, auth) => new Promise((resolve, reject) => {
 (async () => {
 
     console.log(`
-_____  _    _ _______ _  ___    _ _      _      
-|  __ \| |  | |__   __| |/ / |  | | |    | |     
-| |__) | |  | |  | |  | ' /| |  | | |    | |     
-|  ___/| |  | |  | |  |  < | |  | | |    | |     
-| |    | |__| |  | |  | . \| |__| | |____| |____ 
-|_|     \____/   |_|  |_|\_\\____/|______|______|
+_|_|_|    _|_|_|    _|      _|    _|  
+_|    _|  _|    _|  _|      _|  _|_|  
+_|_|_|    _|    _|  _|      _|    _|  
+_|        _|    _|    _|  _|      _|  
+_|        _|_|_|        _|        _|  
+                                      
+                                      
                                                     
 
-By : ${chalk.red('@Putracelek && Dkmpostor')} - ${chalk.blue('Kullbanget/')}
+By : ${chalk.red('@Putra && Dhika')} - ${chalk.blue('Kullbanget/')}
 
 Features :
 
