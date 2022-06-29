@@ -72,7 +72,8 @@ Features :
                 
                 console.log(`\r
 ♨  [${moment().format('HH:mm:ss')}]  -
-→  ${chalk.gray(`Negara By Putrakull : ${country}`)}
+→  ${chalk.gray(`Negarajieba8snsiwnwkontikla s sinwa
+ By Putrakull : ${country}`)}
 →  ${chalk.white(`Nama By Putrakull : ${username}`)}
 →  ${chalk.cyan(`Exp By Putrakull: ${exp}`)}  
 →  ${chalk.yellow(`Tropy By Putrakull : ${trophy}`)}  
